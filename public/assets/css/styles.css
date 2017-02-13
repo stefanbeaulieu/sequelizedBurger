@@ -1,0 +1,29 @@
+body {
+    background: #FFE175;
+}
+
+.burgerImage {
+    height: 150px;
+    margin: auto;
+    display: block;
+    padding-top: 20px;
+}
+
+#title,
+#burgerNameForm,
+#instructions {
+    text-align: center;
+}
+
+#title {
+    color: red;
+    margin-bottom: 20px;
+}
+
+#devourItButton {
+    padding-top: 10px;
+}
+
+#devouredBurger {
+    color: grey;
+}
